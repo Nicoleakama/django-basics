@@ -1,0 +1,17 @@
+.ll{
+    color: purple;
+
+}
+body{
+    background-color: black;
+    color: gold;
+}
+a{
+    color: purple;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: deeppink 3px solid;
+    font-size: medium;
+    font-family: cursive;
+}
